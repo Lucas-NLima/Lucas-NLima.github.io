@@ -64,7 +64,7 @@ main a:hover{
     color: white;
 }
 
-@media (max-width: 520px){
+@media (max-width: 620px){
     section{
         width: 90%;
         padding: 30px;
