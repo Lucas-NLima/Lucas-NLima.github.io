@@ -78,7 +78,7 @@ main a:hover{
 
     header h3{
         font-size: 1.3rem;
-        color: red
+        color: rgb(255, 238, 0)
 
     }
     
@@ -88,6 +88,6 @@ main a:hover{
 
     main a{
         padding: 10px 0;
-        box-shadow: #fbff15;
+        box-shadow: #ff1515;
     }
 }
